@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-ichsnn-counter-app",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "cra-template",
+    "cra-counter",
+    "react-counter",
+    "base-counter",
+    "base-counter-app",
+    "base-counter-app-template",
+    "base-counter-app-template-cra"
+  ],
+  "description": "The base template for a CRA counter app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ichsnn/ichsnn-counter-app",
+    "directory": "/"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
